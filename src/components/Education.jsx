@@ -5,11 +5,11 @@ import Icons from "./Icons";
 const Education = () => {
   const education = [
     {
-      type: "degree",
-      title: "Degree in Computer Science",
+      type: "bachelor",
+      title: "Bachelor Of Computer Science",
       institution:
         "University of Computer Studies(Meiktila) / Mg Wai Linn Naing, Meiktila, Myanmar",
-      year: "2027(expected)",
+      year: "(expected graduation: Jan 2027)",
     },
   ];
 

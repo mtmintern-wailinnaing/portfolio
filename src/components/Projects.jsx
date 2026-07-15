@@ -24,7 +24,7 @@ const Projects = () => {
         "mPDF",
       ],
       image: "/add-student.png",
-      demo: "https://wailinnaing-portfolio.vercel.app/",
+      demo: "",
       github: "https://github.com/wailinnaing432019/Student-Management-Sys",
     },
     {
@@ -133,19 +133,20 @@ const Projects = () => {
       github: "https://github.com/wailinnaing432019/CanteenManagementSystem",
     },
     {
-      title: 'Stock Management System',
-      subtitle: 'Next.js · Internship OJT (MTM Myanmar)',
-      description: 'A stock/inventory management system built as my on-the-job internship project at MTM Myanmar, using Next.js.',
+      title: "Stock Management System",
+      subtitle: "Next.js · Internship OJT (MTM Myanmar)",
+      description:
+        "A stock/inventory management system built as my on-the-job internship project at MTM Myanmar, using Next.js.",
       highlights: [
-        'Built as my on-the-job training (OJT) project during the MTM Myanmar internship',
-        'Developed with Next.js (App Router) for production-ready React',
-        'Inventory and stock management workflows with admin views',
-        'Deployed live on Render as a working demo'
+        "Built as my on-the-job training (OJT) project during the MTM Myanmar internship",
+        "Developed with Next.js (App Router) for production-ready React",
+        "Inventory and stock management workflows with admin views",
+        "Deployed live on Render as a working demo",
       ],
-      tech: ['Next.js', 'React', 'Tailwind CSS'],
-      image: '',
-      demo: 'https://stock-mgt-intern-pj-test-host.onrender.com/',
-      github: ''
+      tech: ["Next.js", "React", "Tailwind CSS"],
+      image: "",
+      demo: "https://stock-mgt-intern-pj-test-host.onrender.com/",
+      github: "",
     },
     {
       title: "Electronic POS — Market Basket Analysis",
@@ -200,20 +201,21 @@ const Projects = () => {
       github: "https://github.com/wailinnaing432019/CyberSocial",
     },
     {
-      title: 'Laravel 8 Pizza Order System',
-      subtitle: 'Laravel 8 · Early Project (2022)',
-      description: 'My first Laravel project — a pizza ordering system built during an online class, featuring basic CRUD and a simple API.',
+      title: "Laravel 8 Pizza Order System",
+      subtitle: "Laravel 8 · Early Project (2022)",
+      description:
+        "My first Laravel project — a pizza ordering system built during an online class, featuring basic CRUD and a simple API.",
       highlights: [
-        'Built as my introduction to Laravel (v8) and MVC structure',
-        'Implemented basic order CRUD with a simple REST API',
-        'Learned routing, Eloquent, and Blade templating hands-on',
-        'The starting point of my self-directed learning journey'
+        "Built as my introduction to Laravel (v8) and MVC structure",
+        "Implemented basic order CRUD with a simple REST API",
+        "Learned routing, Eloquent, and Blade templating hands-on",
+        "The starting point of my self-directed learning journey",
       ],
-      tech: ['Laravel', 'PHP', 'MySQL', 'Blade', 'REST API'],
-      image: '',
-      demo: '',
-      github: 'https://github.com/YanLinAung123/laravel8-pizza-order-system'
-    }
+      tech: ["Laravel", "PHP", "MySQL", "Blade", "REST API"],
+      image: "",
+      demo: "",
+      github: "https://github.com/YanLinAung123/laravel8-pizza-order-system",
+    },
   ];
 
   return (
