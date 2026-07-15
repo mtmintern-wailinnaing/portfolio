@@ -14,12 +14,13 @@ const Education = () => {
   ];
 
   const certifications = [
+    "Internship Completion Certificate — MTM Myanmar Co., Ltd.",
     "Full-Stack Web Development (5 years of applied, project-based learning)",
     "PHP & Laravel Ecosystem Deep-Dive (Eloquent, Queues, Events, API Resources, Inertia.js)",
     "Modern JavaScript & React Ecosystem (State Management, Performance Optimization, Testing)",
-    "Angular Framework (TypeScript, Component Architecture, Services)",
-    "Machine Learning & NLP with Python, Hugging Face, and Transformers",
+    "Broader Stack Familiarity — Livewire, Python, Java, C#, Spring Boot, Angular (through continuous learning)",
     "Data Mining & Market Basket Analysis (FP-Growth, Association Rules)",
+    "Laravel Development — FDC Batch 13 (CodeLab Online Class)",
   ];
 
   const currentlyLearning = [

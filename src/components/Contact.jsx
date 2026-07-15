@@ -10,6 +10,8 @@ const iconMap = {
 }
 
 const Contact = () => {
+
+
   return (
     <section className="section contact" id="contact">
       <AnimateIn delay={100}>
@@ -70,6 +72,8 @@ const Contact = () => {
             </a>
           </AnimateIn>
         </div>
+        
+
         
         <AnimateIn delay={450}>
           <div className="contact-cta">

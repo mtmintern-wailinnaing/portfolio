@@ -44,13 +44,13 @@ const Navbar = () => {
               </a>
             </li>
           ))}
-          <li className="navbar-theme-item">
-            <ThemeToggle />
-          </li>
           <li className="navbar-cv-item">
             <a href="/MyResume.pdf" download className="navbar-cv-button">
               Download CV
             </a>
+          </li>
+          <li className="navbar-theme-item">
+            <ThemeToggle />
           </li>
         </ul>
       </div>

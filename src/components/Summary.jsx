@@ -13,17 +13,18 @@ const Summary = () => {
       <div className="summary-content">
         <AnimateIn delay={200}>
           <p>
-            Results-driven Junior Full-Stack Developer with <strong>5 years of dedicated study and practical project development</strong> across 
-            <strong> 32+ public GitHub repositories</strong>. Deep specialization in <strong>PHP & Laravel backend architecture</strong> with proven 
-            expertise in RESTful API design, MVC patterns, and database management.
+            Results-driven Junior Full-Stack Developer with <strong>5 years of self-directed study and hands-on project work</strong>,
+            with applied projects consolidated on GitHub. Primary focus is <strong>PHP & Laravel backend architecture</strong> —
+            RESTful APIs, MVC patterns, Eloquent ORM, and database optimization.
           </p>
         </AnimateIn>
         <AnimateIn delay={300}>
           <p>
-            Strong frontend foundation with <strong>React.js</strong>, <strong>Next.js</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>Tailwind CSS</strong>, 
-            focused on building responsive, accessible, and performant user interfaces. Additionally experienced in 
-            <strong> Machine Learning & NLP</strong> with Python, Hugging Face Transformers, and data mining techniques. 
-            Passionate about writing clean, maintainable code and contributing to collaborative engineering teams.
+            Specializing in modern full-stack delivery with <strong>Laravel + Inertia.js + React</strong>, building SPA-style dashboards,
+            clean API layers, and polished interfaces with <strong>Tailwind CSS</strong>. Comfortable across a broader stack —
+            <strong>Next.js</strong>, <strong>Livewire</strong>, <strong>Python</strong>, <strong>Java</strong>, and <strong>C# / Spring Boot</strong> —
+            gained through active, continuous learning. Currently deepening <strong>Next.js App Router / Server Components</strong>
+            during an internship at MTM Myanmar.
           </p>
         </AnimateIn>
       </div>

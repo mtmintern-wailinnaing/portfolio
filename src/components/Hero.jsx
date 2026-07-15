@@ -6,7 +6,7 @@ const codeText = `class Developer {
   public function __construct() {
     $this->backend = ['PHP', 'Laravel', 'MySQL'];
     $this->frontend = ['React', 'Next.js', 'Tailwind'];
-    $this->repos = '32+';
+    $this->focus = 'Laravel + Inertia';
     $this->passion = 'Clean Code & UX';
   }
 }`;
@@ -37,9 +37,9 @@ const Hero = () => {
         </AnimateIn>
         <AnimateIn delay={200}>
           <p className="hero-subtitle">
-            Full-Stack Web Developer & Machine Learning Enthusiast. Building
-            robust backend systems with PHP & Laravel, and crafting responsive,
-            user-friendly interfaces with React.js, Next.js, and modern CSS.
+            Full-Stack Web Developer focused on PHP & Laravel, building modern
+            full-stack apps with Laravel + Inertia.js + React. Continuously
+            expanding into Next.js and a broad full-stack toolset.
           </p>
         </AnimateIn>
         <AnimateIn delay={300}>

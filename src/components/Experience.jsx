@@ -16,12 +16,12 @@ const Experience = () => {
       description: 'Building reusable, component-based UIs with React.js and Next.js, managing state with Hooks and Context API, and ensuring responsive layouts across devices.'
     },
     {
-      title: 'Machine Learning & NLP',
-      description: 'Training and fine-tuning language models for text summarization, applying data mining techniques, and leveraging Python ecosystems for data-driven solutions.'
+      title: 'Broader Stack & Exploration',
+      description: 'Familiar with Livewire, Python, Java, C#, and Spring Boot, picked up through continuous, self-directed learning alongside the core PHP/Laravel/React focus.'
     },
     {
       title: 'Code Quality & Version Control',
-      description: 'Writing clean, well-documented code; conducting code reviews; and maintaining organized Git workflows across 32+ public repositories.'
+      description: 'Writing clean, well-documented code; conducting code reviews; and maintaining organized Git workflows across all my projects.'
     },
     {
       title: 'Continuous Learning',
